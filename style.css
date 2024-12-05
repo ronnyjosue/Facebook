@@ -1,0 +1,51 @@
+body {
+    font-size: 15pt;
+}
+body{
+  background-color: white;
+  
+}
+div{
+  border: flex;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 5px 5px 15px rgba(186, 126, 126, 0.5) ;
+  border-radius: 10px;
+}
+h1{
+  color: blue;
+  font-size: 50px;
+  opacity: 70%;
+}
+
+button{
+  background-color: blue;
+  border: flex;
+  border-radius: 10px;
+  color: white;
+  padding: 7px 115px;
+  margin: 5px;
+  opacity: 70%;
+  
+   
+}
+input{
+  border-radius: 5px;
+  padding: 7px 70px 5px 0;
+  margin: 5px;
+}
+p{
+  font-size: 15px;
+   margin: 10px;
+}
+.senha{
+  color: blue;
+  opacity: 70%;
+  text-decoration: none;
+} 
+a{
+  text-decoration: none;
+  color: white;
+}
+
